@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": " slavermc.play.hosting",
-    "port": 27586,
+    "port": 10737,
     "version": "",
     "try-creative": false
   },
